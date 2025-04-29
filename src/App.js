@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <header className="py-8 px-8 bg-white">
-        <h1 className="text-2xl">Accessibility tests</h1>
+        <h1 className="text-2xl">Accessibility playground</h1>
       </header>
       <main className="flex flex-col gap-4 py-10 px-8 bg-blue-100/45 min-h-[100vh]">
         <AriaRoleAlert />
